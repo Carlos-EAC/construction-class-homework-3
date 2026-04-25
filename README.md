@@ -1,1 +1,2 @@
 # Tarea #3 - Generador de Tarjeta de Presentación
+El sitio recibe un nombre, lenguaje de programación y rol profesional del usuario. Al hacer click en *generar tarjeta* se muestra una tarjeta de presentación. Se puede limpiar haciendo click en *limpiar*.
